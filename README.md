@@ -4,6 +4,7 @@ I will try to comment in the files the best I can to help explain how the functi
 Again I want to thank the community for supporting my website for the years it was up.  
 While some may not agree with me not releasing all the code, I thought this was a good alternative to get the core features out there.  
 My formatting, naming and coding skills are probably scary to some, but alas, here we are. I always meant to rewrite it, and I even started on that a few months ago, but that quickly lost steam as I no longer played eve.  
+![My Coding Standards](https://i.redd.it/6b7und8rs1v21.png)
 
 ## Background  
 EveSkillboard was initially built in a day while I learned PHP. I did not have all the cool bells and whistles in that first day, just the core functionality to show skills.  
